@@ -2,15 +2,30 @@
 
 <!--
 **sanket-domki/sanket-domki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sanket Domki 👋
 
-Here are some ideas to get you started:
+🎓 Computer Science Student  
+💻 Learning DevOps and Cloud Technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Linux
+- Networking
+- Git & GitHub
+- CI/CD Pipelines
+- GitHub Actions
+- DNS & DHCP
+- Windows Administration
+- Basic Cybersecurity
+
+## Currently Learning
+- Docker
+- Kubernetes
+- AWS
+- Infrastructure Automation
+
+## Goals
+To become a skilled DevOps Engineer and build scalable cloud infrastructure.
+
+
+
+
