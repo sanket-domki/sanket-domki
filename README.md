@@ -1,28 +1,23 @@
 
 # Hi, I'm Sanket Domki 👋
 
-🎓 Computer Science Student  
-💻 Learning DevOps and Cloud Technologies  
+## 🛠 Skills
 
-## Skills
+**Operating Systems**
 - Linux
-- Networking
-- Git & GitHub
-- CI/CD Pipelines
-- GitHub Actions
-- DNS & DHCP
 - Windows Administration
+
+**Networking**
+- DNS
+- DHCP
+- TCP/IP Basics
+
+**DevOps Tools**
+- Git
+- GitHub
+- GitHub Actions
+- CI/CD Pipelines
+
+**Security**
 - Basic Cybersecurity
-
-## Currently Learning
-- Docker
-- Kubernetes
-- AWS
-- Infrastructure Automation
-
-## Goals
-To become a skilled DevOps Engineer and build scalable cloud infrastructure.
-
-
-
 
