@@ -1,7 +1,4 @@
-## Hi there 👋
 
-<!--
-**sanket-domki/sanket-domki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi, I'm Sanket Domki 👋
 
 🎓 Computer Science Student  
