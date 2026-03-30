@@ -16,7 +16,7 @@
 - Git
 - GitHub
 - GitHub Actions
-- CI/CD Pipelines
+
 
 **Security**
 - Basic Cybersecurity
